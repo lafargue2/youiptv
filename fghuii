@@ -204,8 +204,6 @@ http://rb-group-server.com:25461/12341234/12341234/4851
 #EXTINF:-1,Sky Living
 http://rb-group-server.com:25461/12341234/12341234/4741
 #EXTINF:-1,Tru TV
-http://rb-group-server.com:25461/12341234/12341234/4840
-#EXTINF:-1,True Crime
 http://rb-group-server.com:25461/12341234/12341234/4844
 #EXTINF:-1,True Movies 1
 http://rb-group-server.com:25461/12341234/12341234/3741
@@ -214,8 +212,6 @@ http://rb-group-server.com:25461/12341234/12341234/3739
 #EXTINF:-1,E!'
 http://rb-group-server.com:25461/12341234/12341234/4867
 #EXTINF:-1,STV Central West
-http://rb-group-server.com:25461/12341234/12341234/4820
-#EXTINF:-1,TG4
 http://rb-group-server.com:25461/12341234/12341234/4821
 #EXTINF:-1,The Vault
 http://rb-group-server.com:25461/12341234/12341234/4878
@@ -258,8 +254,6 @@ http://rb-group-server.com:25461/12341234/12341234/4797
 #EXTINF:-1,NHK
 http://rb-group-server.com:25461/12341234/12341234/4739
 #EXTINF:-1,Pick
-http://rb-group-server.com:25461/12341234/12341234/4866
-#EXTINF:-1,Prime_TV
 http://rb-group-server.com:25461/12341234/12341234/4751
 #EXTINF:-1,Really
 http://rb-group-server.com:25461/12341234/12341234/4748
@@ -278,42 +272,16 @@ http://rb-group-server.com:25461/12341234/12341234/4837
 #EXTINF:-1,5 Star
 http://rb-group-server.com:25461/12341234/12341234/4831
 #EXTINF:-1,Alibi
-http://rb-group-server.com:25461/12341234/12341234/4839
-#EXTINF:-1,PBS America
-http://rb-group-server.com:25461/12341234/12341234/3730
-#EXTINF:-1,At The Races
-http://rb-group-server.com:25461/12341234/12341234/4763
-#EXTINF:-1,BET
-http://rb-group-server.com:25461/12341234/12341234/4816
-#EXTINF:-1,Bike
-http://rb-group-server.com:25461/12341234/12341234/4757
-#EXTINF:-1,Colors
-http://rb-group-server.com:25461/12341234/12341234/4789
-#EXTINF:-1,Dave ja vu
-http://rb-group-server.com:25461/12341234/12341234/4828
-#EXTINF:-1,S4C
 http://rb-group-server.com:25461/12341234/12341234/4752
 #EXTINF:-1,Scuzz
 http://rb-group-server.com:25461/12341234/12341234/4872
 #EXTINF:-1,MTV Dance
 http://rb-group-server.com:25461/12341234/12341234/4885
 #EXTINF:-1,MTV Hits
-http://rb-group-server.com:25461/12341234/12341234/4882
-#EXTINF:-1,MTV Music
-http://rb-group-server.com:25461/12341234/12341234/4881
-#EXTINF:-1,MTV Rocks
 http://rb-group-server.com:25461/12341234/12341234/4883
 #EXTINF:-1,MTV.Base
 http://rb-group-server.com:25461/12341234/12341234/4737
 #EXTINF:-1,MTV.
-http://rb-group-server.com:25461/12341234/12341234/3729
-#EXTINF:-1,VH1
-http://rb-group-server.com:25461/12341234/12341234/4877
-#EXTINF:-1,Viceland
-http://rb-group-server.com:25461/12341234/12341234/4827
-#EXTINF:-1,CITV
-http://rb-group-server.com:25461/12341234/12341234/3726
-#EXTINF:-1,4Music
 http://rb-group-server.com:25461/12341234/12341234/4874
 #EXTINF:-1,Box Nation
 http://rb-group-server.com:25461/12341234/12341234/4772
@@ -360,26 +328,12 @@ http://rb-group-server.com:25461/12341234/12341234/4743
 #EXTINF:-1,BT Sport ESPN
 http://rb-group-server.com:25461/12341234/12341234/4742
 #EXTINF:-1,BT Sports ESPN
-http://rb-group-server.com:25461/12341234/12341234/4774
-#EXTINF:-1,Racing
-http://rb-group-server.com:25461/12341234/12341234/4764
-#EXTINF:-1,Chelsea TV
-http://rb-group-server.com:25461/12341234/12341234/4768
-#EXTINF:-1,Eden
-http://rb-group-server.com:25461/12341234/12341234/4833
-#EXTINF:-1,Horse and Country
-http://rb-group-server.com:25461/12341234/12341234/4760
-#EXTINF:-1,Motorsport TV
 http://rb-group-server.com:25461/12341234/12341234/4762
 
 #EXTINF:-1,ABC 7 LOS ANGELES
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/5847.ts
-#EXTINF:-1,CBS 2 LOS ANGELES
 http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/5740.ts
 #EXTINF:-1,FOX 11 LOS ANGELES
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/5738.ts
-#EXTINF:-1,NBC 4 LOS ANGELES
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/5739.ts
+MAG:WHMCS:483/LWpkXRLMkR/5739.ts
 #EXTINF:-1,CBS 2 NEW YORK
 http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/947.ts
 #EXTINF:-1,ABC 7 NEW YORK
@@ -395,10 +349,6 @@ http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/1528.ts
 #EXTINF:-1,BOUNCE TV
 http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2483.ts
 #EXTINF:-1,COMET TV
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2206.ts
-#EXTINF:-1,COZI TV
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/3047.ts
-#EXTINF:-1,ION TV
 http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/5150.ts
 #EXTINF:-1,GET TV
 http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/2813.ts
