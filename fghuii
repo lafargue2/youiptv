@@ -66,8 +66,6 @@ http://rb-group-server.com:25461/12341234/12341234/3708
 #EXTINF:-1,USA A&E
 http://rb-group-server.com:25461/12341234/12341234/3704
 #EXTINF:-1,ABC
-http://rb-group-server.com:25461/12341234/12341234/3719
-#EXTINF:-1,NBCSN
 http://rb-group-server.com:25461/12341234/12341234/3723
 #EXTINF:-1,CA-TSN1
 http://rb-group-server.com:25461/12341234/12341234/3684
@@ -102,20 +100,10 @@ http://rb-group-server.com:25461/12341234/12341234/6810
 #EXTINF:-1,CA-Sportsnet Ontario
 http://rb-group-server.com:25461/12341234/12341234/6809
 #EXTINF:-1,BBC One
-http://rb-group-server.com:25461/12341234/12341234/3785
-#EXTINF:-1,BBC Two
-http://rb-group-server.com:25461/12341234/12341234/3783
-#EXTINF:-1,BBC Three
-http://rb-group-server.com:25461/12341234/12341234/3782
-#EXTINF:-1,BBC Four HD
 http://rb-group-server.com:25461/12341234/12341234/6034
 #EXTINF:-1,BBC World News
 http://rb-group-server.com:25461/12341234/12341234/3772
 #EXTINF:-1,BBC News UK
-http://rb-group-server.com:25461/12341234/12341234/3771
-#EXTINF:-1,BBC Alba
-http://rb-group-server.com:25461/12341234/12341234/6035
-#EXTINF:-1,Sky News
 http://rb-group-server.com:25461/12341234/12341234/4830
 #EXTINF:-1,CNBC
 http://rb-group-server.com:25461/12341234/12341234/3761
@@ -138,8 +126,6 @@ http://rb-group-server.com:25461/12341234/12341234/3777
 #EXTINF:-1,Channel 4
 http://rb-group-server.com:25461/12341234/12341234/3776
 #EXTINF:-1,Channel 5
-http://rb-group-server.com:25461/12341234/12341234/3775
-#EXTINF:-1,Channel 5 +1
 http://rb-group-server.com:25461/12341234/12341234/3760
 #EXTINF:-1,More 4
 http://rb-group-server.com:25461/12341234/12341234/3774
@@ -172,8 +158,6 @@ http://rb-group-server.com:25461/12341234/12341234/4862
 #EXTINF:-1,Film4
 http://rb-group-server.com:25461/12341234/12341234/3744
 #EXTINF:-1,Comedy Central Extra
-http://rb-group-server.com:25461/12341234/12341234/4841
-#EXTINF:-1,Crime & Investigation
 http://rb-group-server.com:25461/12341234/12341234/4810
 #EXTINF:-1,Fox
 http://rb-group-server.com:25461/12341234/12341234/4838
@@ -218,8 +202,6 @@ http://rb-group-server.com:25461/12341234/12341234/4863
 #EXTINF:-1,Sky.Atlantic
 http://rb-group-server.com:25461/12341234/12341234/4851
 #EXTINF:-1,Sky Living
-http://rb-group-server.com:25461/12341234/12341234/4854
-#EXTINF:-1,Capital TV
 http://rb-group-server.com:25461/12341234/12341234/4741
 #EXTINF:-1,Tru TV
 http://rb-group-server.com:25461/12341234/12341234/4840
